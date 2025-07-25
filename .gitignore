@@ -1,0 +1,23 @@
+# Arquivos do Android Studio
+*.iml
+.gradle/
+.idea/
+local.properties
+.DS_Store
+
+# Diretórios de build
+/build/
+**/build/
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Configurações específicas
+*.apk
+*.ap_
+*.dex
+*.log
+
+# Outras
+*.keystore
+*.jks

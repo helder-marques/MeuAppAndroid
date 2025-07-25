@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppReceitas</string>
+    <string name="img_doce_desc">Imagem de um doce</string>
+    <string name="img_agridoce_desc">Imagem de comida agridoce</string>
+    <string name="img_salgado_desc">Outra imagem de salgado</string>
+
+</resources>
